@@ -1,6 +1,6 @@
 {
   "name": "@tmigone/mongooseeder",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "mongodb seeder using mongoose models",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,14 @@
     "type": "git",
     "url": "git+https://github.com/tomasmigone/mongooseeder.git"
   },
-  "keywords": ["MongoDB", "mongoose", "seeder", "seed", "data", "json"],
+  "keywords": [
+    "MongoDB",
+    "mongoose",
+    "seeder",
+    "seed",
+    "data",
+    "json"
+  ],
   "license": "WTFPL",
   "dependencies": {
     "bluebird": "^3.5.1",
