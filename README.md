@@ -3,7 +3,6 @@ Seed a mongodb database with data taken from JSON files, for testing purposes or
 Library requires usage of mongoose models.
 
 # Usage
-
 ```javascript
 let uri = ''
 
