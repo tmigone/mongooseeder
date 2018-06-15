@@ -1,12 +1,12 @@
 {
-  "name": "mongooseeder",
+  "name": "seedmongoose",
   "version": "1.0.0",
-  "description": "mongodb seeder using mongoose schemas",
+  "description": "mongodb seeder using mongoose models",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node example/example.js"
   },
-  "author": "Tomás Migone <tomas@p4d.com.ar> (http://www.programming4design.com.ar)",
+  "author": "Tomás Migone <tomasmigone@gmail.com>",
   "license": "WTFPL",
   "dependencies": {
     "bluebird": "^3.5.1",
