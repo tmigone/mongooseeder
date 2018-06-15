@@ -1,0 +1,17 @@
+{
+  "model": "Author",
+  "documents": [
+    {
+      "first_name": "John",
+      "family_name": "Doe"
+    },
+    {
+      "first_name": "Jane",
+      "family_name": "Smith"
+    },
+    {
+      "first_name": "Edgar",
+      "family_name": "Poe"
+    }
+  ]
+}
