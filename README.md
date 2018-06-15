@@ -1,5 +1,6 @@
 # mongooseeder
-mongodb seeder
+Seed a mongodb database with data taken from JSON files, for testing purposes or just populating your database.
+Library requires usage of mongoose models.
 
 # Usage
 
