@@ -39,7 +39,7 @@ let AuthorSchema = new Schema({
 module.exports = mongoose.model('Author', AuthorSchema)
 ```
 
-## Migration file
+## Migration file
 ```json
 {
   "model": "Author",
